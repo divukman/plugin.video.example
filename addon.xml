@@ -17,9 +17,7 @@ provider-name="Dimitar">
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
     <screenshot>resources\screenshot-01.jpg</screenshot>
-    <screenshot>resources\screenshot-02.jpg</screenshot>
-    <screenshot>resources\screenshot-03.jpg</screenshot>
   </assets>
-  <news>Updated with latest artwork metadata</news>
+  <news>Updating the TV channels</news>
 </extension>
 </addon>
